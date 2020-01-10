@@ -1,6 +1,6 @@
 # Checklist Schoolkeuze Kleuter
 
-Dit is een checklist gemaakt naar aanleiding van schoolkeuze voor kleuterschool voor onze dochter bij de keuze, centrum Gent.
+Dit is een checklist gemaakt naar aanleiding van schoolkeuze voor kleuterschool voor onze dochter, centrum Gent.
 
 Niet alle punten in deze checklist hebben zelfde belang:
 - 🙄 duidt op persoonlijke red flags
