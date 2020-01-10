@@ -68,7 +68,8 @@ Niet alle punten in deze checklist hebben zelfde belang:
 
 ### Afzetten
 
-- Kunnen kinderen in de klas worden afgezet/opgehaald? 🤞 Of moeten ze worden afgezet op de speelplaats, of - erger - aan de schoolpoort?
+- Kunnen kinderen in de klas worden afgezet/opgehaald? 🤞  
+  Of moeten ze worden afgezet op de speelplaats, of - erger - aan de schoolpoort?
   - Afzetten/ophalen in de klas heeft naast het voor kind aangenamer te maken ook voordeel dat je ziet wat er in de klas gebeurt (bvb. nieuwe tekeningen, nieuw materiaal voor huidig project, ...)
 - Ben je als ouder ook welkom op school?
   - Hoe?
