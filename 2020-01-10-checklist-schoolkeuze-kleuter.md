@@ -16,8 +16,7 @@ Niet alle punten in deze checklist hebben (voor ons) zelfde belang:
   - Als directie vertelt over de visie; welke punten halen ze dan eerst aan?
 - Levensbeschouwing?
   - Speelt religie op één of andere manier nog rol in klaswerking? 🙄
-  - _"Is da verplicht?"_
-  - Indien katholieke school; Zijn er alternatieven, bvb. zedenleer, mogelijk?
+  - Indien katholieke school; Zijn er alternatieven, bvb. zedenleer, mogelijk? (_"Is da verplicht?"_)
 - Is er projectwerk?
   - Hoe lang is een project typisch? Is het "project per week" heilig? Of kan hiervan afgeweken worden als er meer/minder interesse van kleuters blijkt te zijn? 
   - Wat zijn enkele van de recentste projecten in die klas? 
@@ -26,7 +25,7 @@ Niet alle punten in deze checklist hebben (voor ons) zelfde belang:
 
 ### Samenstelling Klassen
 
-- Zijn er graadsklassen of classe unique? Of is het klassiek per jaar?
+- Zijn er graadsklassen of classe unique? Of is het "klassiek" per jaar?
   - Bij graadsklassen/classe unique: op welke manier wordt er gedifferentieerd?
   - Zie je in de hoeken bvb aanduidingen van differentiatie (bvb moeilijkere puzzels vs. makkelijkere puzzels met ander symbooltje)?
 - Wat is typische grootte van een klas? Aan begin van schooljaar versus eind van schooljaar?
