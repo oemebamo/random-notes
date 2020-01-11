@@ -123,9 +123,14 @@ Niet alle punten in deze checklist hebben (voor ons) zelfde belang:
 - Veiligheid rondom schoolpoort;
 - Veiligheid voor kleuter om zelf te gaan per step/fietsje (onder begeleiding);
 
+### School
+
+- Hoe groot is de school in zijn geheel? Erg druk, of ruim?
+- Zijn er verschillende delen? (Bvb. speelplaats voor kleuter apart.)
+
 ### Klas
 
-- Voldoende plaats?
+- Voldoende plaats? Natuurlijk licht?
 - Hoe ingedeeld? Welke hoeken?
 - Voelt het ongewoon rommelig aan?
 - De werkjes/tekeningen die omhoog hangen, getuigen die van veel creativiteit? Of zijn het allemaal dezelfde?
