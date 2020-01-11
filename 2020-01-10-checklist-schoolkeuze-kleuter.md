@@ -25,7 +25,7 @@ Niet alle punten in deze checklist hebben (voor ons) zelfde belang:
 
 ### Samenstelling Klassen
 
-- Zijn er graadsklassen of classe unique? Of is het "klassiek" per jaar?
+- Zijn er graadsklassen ("peuter & 1e" en "2e & 3e") of classe unique ("peuter tot 3e samen")? Of is het "klassiek" per jaar?
   - Bij graadsklassen/classe unique: op welke manier wordt er gedifferentieerd?
   - Zie je in de hoeken bvb aanduidingen van differentiatie (bvb moeilijkere puzzels vs. makkelijkere puzzels met ander symbooltje)?
 - Wat is typische grootte van een klas? Aan begin van schooljaar versus eind van schooljaar?
@@ -35,11 +35,10 @@ Niet alle punten in deze checklist hebben (voor ons) zelfde belang:
 
 - Voel je een klik met de personen die je rondleiden? 🤞
 - Full-time of part-time?
-- Is er extra ondersteuning voor de leerkrachten, bvb. voor sport, of extra hulp op sommige dagen/momenten?
+- Is er extra ondersteuning voor de leerkrachten, bvb. voor sport, of extra hulp op sommige dagen/momenten (bvb voor verversen pampers allerkleinsten)?
 
 ### Pedagogiek
 
-- Heeft een kind een portfolio/tekstenboek waarin vooruitgang wordt bijgehouden?
 - Wordt er een klasboek bijgehouden?
 - Hoe wordt aandacht voor volgende begrippen ingevuld:
   - Diversiteit
@@ -50,9 +49,12 @@ Niet alle punten in deze checklist hebben (voor ons) zelfde belang:
   - Natuurexploratie
      - Zijn er regelmatige uitstappen naar parken/natuur in de buurt?
   - Muzische vorming
+     - Bvb. enkel muziek (liedjes)? Of ook aandacht voor toneel?
+  - Inclusie
+     - Wat is visie op inclusie op school? (cfr. M-decreet) Zijn er kinderen met beperking op school, is hier voldoende ondersteuning voor en ervaring mee?
 - Wordt er soms aan groepswerk gedaan? Wanneer wel, wanneer niet?
 - Wordt er gewerkt met beloningssystemen? "X stickertjes als je dit of dat goed doet." 🙄
-- Wat is visie op inclusie op school? (cfr. M-decreet) Zijn er kinderen met beperking op school, is hier voldoende ondersteuning voor en ervaring mee?
+- Heeft een kind een portfolio/tekstenboek waarin "vooruitgang" wordt bijgehouden?
 
 ## Dagindeling
 
