@@ -6,6 +6,8 @@ Niet alle punten in deze checklist hebben (voor ons) zelfde belang:
 - 🙄 duidt op persoonlijke red flags
 - 🤞 duidt op belangrijk punt
 
+**Disclaimer**: Noch ik, noch mijn partner zijn leerkracht of pedagoog, dus zie dit vooral niet als een wetenschappelijk gefundeerde/complete lijst. Opmerkingen steeds welkom.
+
 ## Methodiek & Pedagogiek
 
 ### Methodiek
