@@ -85,7 +85,7 @@ Niet alle punten in deze checklist hebben (voor ons) zelfde belang:
 (Kind kan zich zo aanpassen, tijdstip van start is minder strikt.)
 - Wat is typisch verloop van het kringmoment bij start van dag?
 - Is er een "kindje van de dag"? Wat zijn hiervan de taken? Wat met meer verlegen kindjes?
-- Is er een klaspop? (Studio 100 style?)
+- Is er een klaspop? (Studio 100 style?) Wordt deze klaspop meegegeven in weekends met kindjes? (Hoe vermijden dat dit wedstrijd wordt tussen kindjes om "coolste" - duurste - activiteiten mee te doen; en het zo manier om te stoefen wordt?)
 
 ### Activiteiten
 
