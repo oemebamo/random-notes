@@ -57,7 +57,7 @@ Niet alle punten in deze checklist hebben (voor ons) zelfde belang:
   - Inclusie
      - Wat is visie op inclusie op school? (cfr. M-decreet) Zijn er kinderen met beperking op school, is hier voldoende ondersteuning voor en ervaring mee?
 - Wordt er soms aan groepswerk gedaan? Wanneer wel, wanneer niet?
-- Wordt er gewerkt met beloningssystemen? "X stickertjes als je dit of dat goed doet." 🙄
+- Wordt er gewerkt met beloningssystemen? "X stickertjes als je dit of dat goed doet." 🙄 Meer algemeen: wat is de visie op belonen en straffen?
 - Heeft een kind een portfolio/tekstenboek waarin "vooruitgang" wordt bijgehouden?
 
 ## Dagindeling
