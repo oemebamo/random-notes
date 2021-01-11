@@ -38,6 +38,8 @@ Niet alle punten in deze checklist hebben (voor ons) zelfde belang:
 - Voel je een klik met de personen die je rondleiden? 🤞
 - Full-time of part-time?
 - Is er extra ondersteuning voor de leerkrachten, bvb. voor sport, of extra hulp op sommige dagen/momenten (bvb voor verversen pampers allerkleinsten)?
+- Wat vind de directie belangrijk bij het aanwerven van nieuwe leerkrachten? 
+- Hoe worden leerkrachten verder begeleid (opleidingen) of bijgestuurd (indien nodig)?
 
 ### Pedagogiek
 
