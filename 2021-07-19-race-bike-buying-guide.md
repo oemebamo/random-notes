@@ -38,7 +38,7 @@
 my recommendation?
 - use a bike from friends or a 2nd hand bike to know if you like it or not (for as long as possible);
 - if it's your thing, and you plan to ride weekly/couple of times per month;
-- choose between gravel or endurance (no use in looking at time trial/aero as "main bike");
+- choose between gravel or endurance (no use in looking at time trial/aero as "main bike" - base decision on speed vs. comfort & how much luggage);
 - for a new bike: spend for 1500-2000 (not less)
   - go for shimano 105 or better (or equivalent of campagnolo)
 
