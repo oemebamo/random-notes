@@ -56,3 +56,16 @@ a good 1000-1500 range bike can always be upgraded (if you'd become more serious
 - https://www.youtube.com/gcn/videos
 - https://www.youtube.com/c/gcntech/videos
 - https://www.dcrainmaker.com/ (very thorough reviews)
+
+# Bike Shops
+
+## In and around Ghent
+
+- Bataia - https://www.bataia.cc/ (Cervélo, Basso, Jaegher) (Gent)
+- Steil - https://www.steil.gent/ (All City, Surly, Velo Orange) (Gent)
+- Vélocien - https://velocien.be/ (Lapierre, Cinelli, Open Cycle) (Gent)
+- Pervélo - https://www.pervelo.be/ (Gent)
+- Vélo Loft - https://velo-loft.com/ (BMC, Giant) (Nazareth)
+- Rijwielen Vercamer - https://www.rijwielenvercamer.be/ (Cinelli) (Gent)
+- Het Verzet - https://www.hetverzet.be/specialized-elite-shop (Specialized) (Deinze)
+- Velohuis - https://www.velohuis.be/ (Bianchi, a.o.) (Oudenaarde)
