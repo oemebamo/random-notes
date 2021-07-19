@@ -43,3 +43,15 @@ my recommendation?
   - go for shimano 105 or better (or equivalent of campagnolo)
 
 a good 1000-1500 range bike can always be upgraded (if you'd become more serious about it); first step would often be better tires/groupset/wheels.
+
+# Reading Material
+
+## Buying Guides
+- https://www.youtube.com/watch?v=_T7NTe3uBN4
+- https://www.bikeexchange.com.au/blog/road-bike-buyers-guide
+- https://cyclingtips.com/2021/02/a-beginners-guide-to-choosing-a-road-bike/
+
+## Follow/Subscribe Tips
+- https://www.youtube.com/gcn/videos
+- https://www.youtube.com/c/gcntech/videos
+- https://www.dcrainmaker.com/ (very thorough reviews)
