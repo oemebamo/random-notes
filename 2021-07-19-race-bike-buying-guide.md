@@ -41,6 +41,7 @@ my recommendation?
 - choose between gravel or endurance (no use in looking at time trial/aero as "main bike" - base decision on speed vs. comfort & how much luggage);
 - for a new bike: spend for 1500-2000 (not less)
   - go for shimano 105 or better (or equivalent of campagnolo)
+  - i'd say: disc brakes (hard to upgrade later)
 
 a good 1000-1500 range bike can always be upgraded (if you'd become more serious about it); first step would often be better tires/groupset/wheels.
 
