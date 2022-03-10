@@ -14,10 +14,11 @@
   - aluminium
 - quality entry level: 800-1400
   - aluminium
-  - better quality group/wheels
+  - better quality group set / wheels
 - 1400-2000
   - carbon frame bikes
   - great group set
+  - sometimes disc brakes
 - 2000-3000
   - add one or more of:
     - disc brakes
